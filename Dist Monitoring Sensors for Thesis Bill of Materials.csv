@@ -1,0 +1,16 @@
+"Part";"Value";"Device";"Package";"Description";"MPN";"PROD_ID";"SF_SKU";"VALUE";
+"D1";"1N4004";"1N4004";"DO41-10";"DIODE";"";"";"";"";
+"DC1";"2.1 mm";"DCBARRELPTH";"DCJACK_2MM_PTH";"2.0mm DC Barrel Jack";"";"";"";"";
+"DISP1";"OLED";"DISPLAY-OLED-128X64-I2C";"DISPLAY-OLED-128X64-I2C";"128x64 Dot Matrix OLED Module based on SSD1306 chip";"";"";"";"";
+"GPS1";"GPS";"GPS-RECEIVER-NEO6MGENERIC";"GPS-RECEIVER-NEO6M-GENERIC";"Generic GPS Receiver Module based on NEO-6 device";"";"";"";"";
+"H1";"G";"CONN_05";"1X05";"Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections";"";"";"";"";
+"H2";"V";"CONN_05";"1X05";"Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections";"";"";"";"";
+"H3";"S";"CONN_05";"1X05";"Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections";"";"";"";"";
+"H4";"I2C";"DIP-BLACK-MALE-HEADER-VERT(4P-2.54)";"H4-2.54";"320020017";"P125-1104A0BS116A1";"";"";"4p-2.54";
+"LED1";"White";"LED3MM";"LED3MM";"LED";"";"";"";"";
+"R1";"220R";"R-US_0207/10";"0207/10";"RESISTOR, American symbol";"";"";"";"";
+"S1";"";"MOMENTARY-SWITCH-SPST-PTH-6.0MM";"TACTILE_SWITCH_PTH_6.0MM";"Momentary Switch (Pushbutton) - SPST";"";" SWCH-08441";"COM-00097";"";
+"S2";"";"MOMENTARY-SWITCH-SPST-PTH-6.0MM";"TACTILE_SWITCH_PTH_6.0MM";"Momentary Switch (Pushbutton) - SPST";"";" SWCH-08441";"COM-00097";"";
+"S3";"";"MOMENTARY-SWITCH-SPST-PTH-6.0MM";"TACTILE_SWITCH_PTH_6.0MM";"Momentary Switch (Pushbutton) - SPST";"";" SWCH-08441";"COM-00097";"";
+"U1";"RFM95W";"RFM95W";"RFM95W";"Adafruit LORA Packet Radio";"";"";"";"";
+"X1";"Raspi 40 Pin Connector";"RASPI_BOARD_B+#_E3P";"RASPI_BOARD_B+_EDGES_3DRILL_PAD";"Raspberry Pi GPIO connector with markings for the outer dimensions of the Raspberry Pi board model B+";"";"";"";"";
